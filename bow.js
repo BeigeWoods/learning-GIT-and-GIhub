@@ -1,2 +1,2 @@
 print("hello world");
-print("for conflict!");
+print("I dont't wanna conflict!");
